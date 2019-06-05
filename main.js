@@ -33,7 +33,7 @@ bin.onmouseover = function () {
 }
 bin.onmouseout = function () {
     bin2.style.display = "none"
-    bin.style.background = "url(C:/Users/Li/Desktop/阴阳师/img/1.png)"
+    bin.style.background = url("./img/99.png")
 }
 
 //顶部导航栏--垂直轮播
@@ -195,86 +195,86 @@ function aaxbj() {
         {
             h2: "新闻  |  玉藻前登场！《阴阳师》百鬼幼儿园更新啦！",
             p: "百鬼幼儿园第五百届夏季运动会火热进行中！SSR班和SR班的比赛，到了最关键时刻！白狼VS御馔津，究竟谁的箭术更胜一筹？酒吞童子……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  玉藻前登场！《阴阳师》百鬼幼儿园更新啦！",
             p: "百鬼幼儿园第五百届夏季运动会火热进行中！SSR班和SR班的比赛，到了最关键时刻！白狼VS御馔津，究竟谁的箭术更胜一筹？酒吞童子……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  玉藻前登场！《阴阳师》百鬼幼儿园更新啦！",
             p: "百鬼幼儿园第五百届夏季运动会火热进行中！SSR班和SR班的比赛，到了最关键时刻！白狼VS御馔津，究竟谁的箭术更胜一筹？酒吞童子……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  花泽香菜献声《阴阳师》面灵气同人曲日本版！！",
             p: "为了让阴阳师们的作品收获更多喜爱，在与原创团队充分友好沟通后，寮办诚邀面灵气CV花泽香菜演唱同人歌曲《心生七面，善恶难辨》的日……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
 
         {
             h2: "新闻  |  穿越现世！《阴阳师》“离岛之歌”主题cosplay摄影周回顾",
             p: "初入皐月，夏日气息扑面。一键换装、摄影录像，主题cosplay摄影周刚刚过去，阴阳师们一起来回顾一下现场的盛况吧！【“离岛之歌”……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  洒墨染纸 妙笔成卷《阴阳师》风格化同人佳作欣赏！",
             p: "听闻有这样一群阴阳师，他们绘百鬼阴阳，录平安风貌。为了能一睹传说中的佳作，寮办不远万里请到了风格迥异的三位大触……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  伪神降临！《阴阳师》全新战场玩法来袭",
             p: "平安京晨露未干，幽光已隐隐浮现。恍然间，一个声音浮现于耳畔“找到她们！魂灵骚动的真相已经慢慢明晰，原来是无辜的少女被献祭成巫女……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  全新传记解锁《阴阳师》式神专属配饰、姿度重磅更新！",
             p: "夏日初晴映平安，暖风和煦添新貌。春夏交替之际，六式神全新传记来袭，本次又新增了什么专属的配饰和姿度呢？寮办将在此为各位一一揭晓……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  成吨快乐来袭！《阴阳师》同人衍生动画视频创作大赛开启<",
             p: "梦幻夏日已经开启，幼儿园里都是小鬼们的欢声笑语。坐上竹子车，扛上鬼葫芦，快乐的小鬼派对从这里开始！【拼豆模型】在像素风的拼豆模……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  八岐大兔？《没出息的阴阳师一家》第3话更新！",
             p: "天下武功，唯快不破。在针锋相对的斗技场上，速度决定了能否抢占先机。可是...为什么每次都比对手慢呢？！屡战屡败的山兔含泪发誓……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  素纸雏心《阴阳师》匣中少女全新皮肤上线！！",
             p: "在传说中，女儿节人偶中寄宿着灵魂，这个灵魂会守护着人偶的主人，为其带走厄运。岁月流淌，灯火不息，人们世世代代相信着这个关于守护……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  萌鬼运动会开幕！《阴阳师》《百鬼幼儿园》更新啦！",
             p: "彩旗迎风飘扬，战鼓轰隆擂响。一声可爱的呼喊响彻天际，“Holahola~”主持人山兔宣布：百鬼幼儿园第500届夏季运动会正式开……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
 
         {
             h2: "新闻  |  守护的契约《阴阳师》公益猫盒设计大赛开启！",
             p: "阳光懒懒地洒在庭院里，顽皮活泼的小动物们四处打闹,在阴阳师们的温暖陪伴下尽情撒欢。为给现世的流浪小动物也带去温暖，寮办希望与大……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
 
         {
             h2: "新闻  |  协力同行《阴阳师》 守护系统全新升级！",
             p: "今天庭院的门廊外，隐隐传来一阵嘈杂声：“呀，今天和后辈约好了八点上线！”“少年，快试试我刚送你的五星暴击针女，不用谢！“体力不……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
         {
             h2: "新闻  |  星河流萤似花灯《阴阳师》椒图全新皮肤即将上线！",
             p: "皓月当空，星河隐现，流水涓涓，润物无声。“嘭——”庆典的花火突然升空，倏地将寂静的庭院点亮。这位独居深海的少女，不知道已经迎来……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
 
         {
             h2: "新闻  |  真爱回馈《阴阳师》福利大放送！",
             p: "5月的阳光映出斑驳的影子，庭院的树下放着一堆亮眼的礼包，这难道是......感恩与热爱的气息扑来，空气中也弥漫起了节日的气氛……",
-            img: "http://prqnryn2v.bkt.clouddn.com/22.png"
+            img: "./img/22.png"
         },
 
 
@@ -337,27 +337,27 @@ var onae = document.getElementById("inerY")
 function aaaae() {
     var aae1 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190523/e06effd0-3cc4-4a84-815b-36d20352dee8.jpg",
+            img: "./img/138.jpg",
             s: "新闻",
             p: "感谢一路有你！网易大神周年庆多重好礼等你解锁"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/navimg/3.jpg",
+            img: "./img/139.jpg",
             s: "新闻",
             p: "怨念的呼唤 《阴阳师》全新SP阶式神御怨般若登场！"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190522/9b379a96-477a-4ae1-9ac0-6089905a682d.jpg",
+            img: "./img/140.jpg",
             s: "新闻",
             p: "【推广】堡垒前线：今日全平台火爆公测"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/navimg/1.jpg",
+            img: "./img/141.jpg",
             s: "新闻",
             p: "999天签到福利  《阴阳师》神乐皮肤·稚子之忆登场"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/navimg/5.jpg",
+            img: "./img/142.jpg",
             s: "新闻",
             p: "花泽香菜现身！《阴阳师》 春和演武战队赛暨“大触觉醒”颁奖典礼售票启动！"
         },
@@ -365,31 +365,31 @@ function aaaae() {
 
     aae2 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_1_2fa7e81.jpg",
+            img: "./img/143.jpg",
             s: "联动"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_2_a4916b4.jpg",
+            img: "./img/145.jpg",
             s: "SP"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_1_2fa7e81.jpg",
+            img: "./img/146.jpg",
             s: "SSR"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_2_a4916b4.jpg",
+            img: "./img/147.jpg",
             s: "SR"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_1_2fa7e81.jpg",
+            img: "./img/148.jpg",
             s: "R"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_2_a4916b4.jpg",
+            img: "./img/149.jpg",
             s: "N"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/shishen/ss_1_2fa7e81.jpg",
+            img: "./img/150.jpg",
             s: "呱太"
         },
 
@@ -397,30 +397,30 @@ function aaaae() {
 
     aae3 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_4_171aa2f.jpg",
+            img: "./img/151.jpg",
             s: "萌新上路"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_1_fb5f1d1.jpg",
+            img: "./img/152.jpg",
             s: "式神御魂"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_2_f1ba243.jpg",
+            img: "./img/153.jpg",
             s: "秘闻副本"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_4_171aa2f.jpg",
+            img: "./img/154.jpg",
             s: "斗技阵容"
         },
     ]
 
     aae4 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190516/e7f34b05-b911-4616-b1fa-99dcb8f5d32c.jpg",
+            img: "./img/155.jpg",
             s: "公益猫盒 设计大赛"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190516/2a940657-b72c-4605-8f6e-33e3808f4080.jpg",
+            img: "./img/156.jpg",
             s: "不知火降临脑洞百科"
         }
     ]
@@ -447,46 +447,46 @@ function aaaae() {
     ]
     aae5 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/47d761fa-3493-4b2c-8c1d-9065c5ac7816.png",
+            img: "./img/157.png",
             s: "泡面番：平安物语"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/b72ed9bd-7507-420a-b270-86c6c11d2b32.png",
+            img: "./img/158.png",
             s: "动画：百鬼幼儿园"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190314/7839eb35-7723-433a-86ea-60097c00c481.png",
+            img: "./img/159.png",
             s: "音乐剧：大江山之章"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/e0ac4f21-6274-4739-96f3-49aee84c5c5e.png",
+            img: "./img/160.png",
             s: "漫画：官方漫画"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/709619be-531e-4c68-ab39-b80492260b56.png",
+            img: "./img/161.png",
             s: "商业街：周边商城"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/9099e3fb-854b-48b5-ae43-4a7f935c867e.png",
+            img: "./img/162.png",
             s: "大事记：线下大事记"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180919/8e6605d3-e335-46be-a5be-e1bfd3bd74ef.png",
+            img: "./img/163.png",
             s: "电台：京都放映町"
         },
     ]
 
     aae6 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_1_fb5f1d1.jpg",
+            img: "./img/152.jpg",
             s: "视频中心"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_2_f1ba243.jpg",
+            img: "./img/153.jpg",
             s: "原画壁纸"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/img/subnav/gonglue/pic_3_6b1c9bd.jpg",
+            img: "./img/154.jpg",
             s: "游戏原声"
         },
     ]
@@ -672,225 +672,225 @@ function aaasslb() {
 
     var asslb = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "赤影妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/327.png?",
+            img: "./img/327.png",
             p: "苍风一目连"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "稻荷神御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/322.png?",
+            img: "./img/322.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "少羽大天狗"
         },
     ]
 
     var asslb2 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/330.png?",
+            img: "./img/330.png",
             p: "不知火"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/325.png?",
+            img: "./img/325.png",
             p: "八岐大蛇"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "稻荷神御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/304.png?",
+            img: "./img/304.png",
             p: "玉藻前"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "彼岸花"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "荒"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/300.png?",
+            img: "./img/300.png",
             p: "花鸟卷"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/292.png?",
+            img: "./img/292.png",
             p: "少羽大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/288.png?",
+            img: "./img/288.png",
             p: "大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/283.png?",
+            img: "./img/283.png",
             p: "荒川之主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/279.png?",
+            img: "./img/279.png",
             p: "阎魔"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/280.png?",
+            img: "./img/280.png",
             p: "两面佛"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/287.png?",
+            img: "./img/259.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/248.png?",
+            img: "./img/248.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/255.png?",
+            img: "./img/255.png",
             p: "青行灯"
         },
     ]
 
     var asslb3 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/280.png?",
+            img: "./img/280.png",
             p: "两面佛"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/287.png?",
+            img: "./img/259.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/248.png?",
+            img: "./img/248.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/255.png?",
+            img: "./img/255.png",
             p: "青行灯"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/330.png?",
+            img: "./img/330.png",
             p: "不知火"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/325.png?",
+            img: "./img/325.png",
             p: "八岐大蛇"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "稻荷神御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/304.png?",
+            img: "./img/304.png",
             p: "玉藻前"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/259.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "彼岸花"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "荒"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/300.png?",
+            img: "./img/300.png",
             p: "花鸟卷"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/292.png?",
+            img: "./img/292.png",
             p: "少羽大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/288.png?",
+            img: "./img/288.png",
             p: "大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/283.png?",
+            img: "./img/283.png",
             p: "荒川之主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/279.png?",
+            img: "./img/279.png",
             p: "阎魔"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
 
@@ -898,95 +898,95 @@ function aaasslb() {
 
     var asslb4 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/280.png?",
+            img: "./img/280.png",
             p: "两面佛"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/287.png?",
+            img: "./img/259.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/248.png?",
+            img: "./img/248.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/255.png?",
+            img: "./img/255.png",
             p: "青行灯"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/330.png?",
+            img: "./img/330.png",
             p: "不知火"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/325.png?",
+            img: "./img/325.png",
             p: "八岐大蛇"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "稻荷神御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/304.png?",
+            img: "./img/304.png",
             p: "玉藻前"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/258.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "彼岸花"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "荒"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/300.png?",
+            img: "./img/300.png",
             p: "花鸟卷"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/292.png?",
+            img: "./img/292.png",
             p: "少羽大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/288.png?",
+            img: "./img/288.png",
             p: "大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/283.png?",
+            img: "./img/283.png",
             p: "荒川之主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/279.png?",
+            img: "./img/279.png",
             p: "阎魔"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
 
@@ -995,111 +995,111 @@ function aaasslb() {
 
     var asslb5 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "彼岸花"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "荒"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/300.png?",
+            img: "./img/300.png",
             p: "花鸟卷"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/292.png?",
+            img: "./img/292.png",
             p: "少羽大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/288.png?",
+            img: "./img/288.png",
             p: "大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/280.png?",
+            img: "./img/280.png",
             p: "两面佛"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/287.png?",
+            img: "./img/258.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/248.png?",
+            img: "./img/248.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/255.png?",
+            img: "./img/255.png",
             p: "青行灯"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/330.png?",
+            img: "./img/330.png",
             p: "不知火"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/325.png?",
+            img: "./img/325.png",
             p: "八岐大蛇"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "稻荷神御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/283.png?",
+            img: "./img/283.png",
             p: "荒川之主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/279.png?",
+            img: "./img/279.png",
             p: "阎魔"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "山风"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/296.png?",
+            img: "./img/296.png",
             p: "御馔津"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/304.png?",
+            img: "./img/304.png",
             p: "玉藻前"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "雪童子"
         },
 
@@ -1108,63 +1108,63 @@ function aaasslb() {
 
     var asslb6 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/325.png?",
+            img: "./img/325.png",
             p: "八岐大蛇"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/316.png?",
+            img: "./img/316.png",
             p: "白藏主"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/312.png?",
+            img: "./img/312.png",
             p: "鬼切"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/311.png?",
+            img: "./img/311.png",
             p: "面灵气"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/328.png?",
+            img: "./img/328.png",
             p: "彼岸花"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/326.png?",
+            img: "./img/326.png",
             p: "荒"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/300.png?",
+            img: "./img/300.png",
             p: "花鸟卷"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/292.png?",
+            img: "./img/292.png",
             p: "少羽大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/288.png?",
+            img: "./img/288.png",
             p: "大天狗"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/280.png?",
+            img: "./img/280.png",
             p: "两面佛"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/315.png?",
+            img: "./img/315.png",
             p: "妖刀姬"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/287.png?",
+            img: "./img/259.png",
             p: "雪童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/248.png?",
+            img: "./img/248.png",
             p: "炼狱茨木童子"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/255.png?",
+            img: "./img/255.png",
             p: "青行灯"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/330.png?",
+            img: "./img/330.png",
             p: "不知火"
         },
 
@@ -1172,47 +1172,47 @@ function aaasslb() {
 
     var asslb7 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/203.png?",
+            img: "./img/298.png",
             p: "灯笼鬼"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/245.png?",
+            img: "./img/245.png",
             p: "提灯小僧"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/246.png?",
+            img: "./img/246.png",
             p: "赤舌"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/400.png?",
+            img: "./img/400.png",
             p: "盗墓小鬼"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/401.png?",
+            img: "./img/401.png",
             p: "寄生魂"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/403.png?",
+            img: "./img/403.png",
             p: "天邪鬼绿"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/404.png?",
+            img: "./img/404.png",
             p: "天邪鬼赤"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/405.png?",
+            img: "./img/405.png",
             p: "天邪鬼黄"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/406.png?",
+            img: "./img/406.png",
             p: "天邪鬼青"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/407.png?",
+            img: "./img/407.png",
             p: "帚神"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/409.png?",
+            img: "./img/409.png",
             p: "涂壁"
         },
 
@@ -1220,31 +1220,31 @@ function aaasslb() {
 
     var asslb8 = [
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/203.png?",
+            img: "./img/426.png",
             p: "彼岸花呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/245.png?",
+            img: "./img/416.png",
             p: "荒呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/246.png?",
+            img: "./img/246.png",
             p: "辉夜姬呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/400.png?",
+            img: "./img/424.png",
             p: "花鸟卷呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/401.png?",
+            img: "./img/423.png",
             p: "一目连呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/403.png?",
+            img: "./img/421.png",
             p: "青行灯呱"
         },
         {
-            img: "https://yys.res.netease.com/pc/gw/20180913151832/data/shishen/404.png?",
+            img: "./img/420.png",
             p: "茨木呱"
         }
     ]
@@ -1389,94 +1389,94 @@ function aaassl() {
     var aazjl = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/330.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/330.png?"
+            img1: "./img/189.png",
+            img2: "./img/188.png"
         },
     ]
 
     var aazjl2 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/328.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/328.png?"
+            img1: "./img/191.png",
+            img2: "./img/190.png"
         },
     ]
 
     var aazjl3 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/327.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/327.png?"
+            img1: "./img/192.png",
+            img2: "./img/193.png"
         },
     ]
     var aazjl4 = [
         {
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/326.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/326.png?"
+            img1: "./img/212.png",
+            img2: "./img/213.png"
         },
     ]
     var azjl5 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/324.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/324.png?"
+            img1: "./img/194.png",
+            img2: "./img/195.png"
         },
     ]
 
     var azjl6 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/325.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/325.png?"
+            img1: "./img/196.png",
+            img2: "./img/197.png"
         },
     ]
 
     var azjl7 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/323.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/323.png?"
+            img1: "./img/198.png",
+            img2: "./img/199.png"
         },
     ]
     var azjl8 = [
         {
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/320.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/320.png?"
+            img1: "./img/200.png",
+            img2: "./img/201.png"
         },
     ]
     var azjl9 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/321.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/321.png?"
+            img1: "./img/202.png",
+            img2: "./img/203.png"
         },
     ]
 
     var azjl10 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/322.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/322.png?"
+            img1: "./img/204.png",
+            img2: "./img/205.png"
         },
     ]
 
     var azjl11 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/318.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/318.png?"
+            img1: "./img/206.png",
+            img2: "./img/207.png"
         },
     ]
     var azjl12 = [
         {
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/319.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/319.png?"
+            img1: "./img/208.png",
+            img2: "./img/209.png"
         },
     ]
     var azjl13 = [
         {
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/role/317.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/name/317.png?"
+            img1: "./img/210.png",
+            img2: "./img/211.png"
         },
 
     ]
@@ -1609,30 +1609,30 @@ function aazhl() {
     var azjl = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/name_qm.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/role_qm.png"
+            img1: "./img/180.png",
+            img2: "./img/181.png"
         },
     ]
 
     var azjl2 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/name_sl.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/role_sl.png"
+            img1: "./img/182.png",
+            img2: "./img/183.png"
         },
     ]
 
     var azjl3 = [
         {
 
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/name_yby.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/role_yby.png"
+            img1: "./img/184.png",
+            img2: "./img/185.png"
         },
     ]
     var azjl4 = [
         {
-            img1: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/name_bqn.png",
-            img2: "https://yys.res.netease.com/pc/gw/20180913151832/data/zhujue/role_bqn.png"
+            img1: "./img/186.png",
+            img2: "./img/187.png"
         },
     ]
 
@@ -2156,22 +2156,22 @@ var qspan = ico.getElementsByTagName("span")
 function aatrsz1() {
     var atrsz1 = [
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/35.jpg"
+            img: "./img/35.jpg"
         },
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/36.jpg"
+            img: "./img/36.jpg"
         },
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/37.jpg"
+            img: "./img/37.jpg"
         },
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/38.jpg"
+            img: "./img/38.jpg"
         },
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/39.jpg"
+            img: "./img/39.jpg"
         },
         {
-            img: "http://prqnryn2v.bkt.clouddn.com/40.jpg"
+            img: "./img/40.jpg"
         }
 
     ]
@@ -2262,19 +2262,19 @@ function aatrsz2() {
 
     var atrsz3 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190520/17207879-1866-4121-8b0e-1d598ba1e2cf.jpg",
+            img: "./img/126.jpg",
             p1: "神明",
             p2: "作者：繁月九霄",
             p3: "263"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190515/9a52a5b8-de1a-4d07-8a1d-9877de68aef1.jpg",
+            img: "./img/127.jpg",
             p1: "等我征服世界",
             p2: "作者：无常与绅士",
             p3: "254"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190515/1319cfac-e4f5-4ca1-a268-e40ab8ceb8ba.jpg",
+            img: "./img/128.jpg",
             p1: "寒梅仙鹤",
             p2: "作者：半仙又帅又能打",
             p3: "234"
@@ -2285,19 +2285,19 @@ function aatrsz2() {
 
     var atrsz4 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190520/821b4925-a29a-4ecf-a05d-2bc0be2a49a6.jpg",
+            img: "./img/129.jpg",
             p1: "COS：不知火",
             p2: "作者：夙胤言生",
             p3: "263"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190520/a38e5538-70dc-43e7-8e11-000d1feb417d.jpg",
+            img: "./img/130.jpg",
             p1: "COS：青行灯",
             p2: "作者：薄薄薄薄薄小年",
             p3: "214"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190517/f4c93ba9-65fb-4520-9c54-6ac36d731cd6.jpg",
+            img: "./img/131.jpg",
             p1: "COS：不知火/阿离",
             p2: "作者：镜酱_",
             p3: "271"
@@ -2307,19 +2307,19 @@ function aatrsz2() {
 
     var atrsz5 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190517/4101343a-7ed7-4aa1-a7c2-ddc8cb34a2be.jpg",
+            img: "./img/132.jpg",
             p1: "COS：白藏主",
             p2: "作者：咸鱼樊八",
             p3: "213"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190517/8b0ae9b0-e7d7-44a3-a55f-2ab054c08e92.jpg",
+            img: "./img/133.jpg",
             p1: "手作：不知火",
             p2: "作者：高冷吃瓜少年",
             p3: "254"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190517/6abfeaaa-3419-4e36-9878-0523cd612b2c.jpg",
+            img: "./img/134.jpg",
             p1: "手作：蝴蝶精·玲珑蝶影",
             p2: "作者：欧皇丢丢",
             p3: "294"
@@ -2329,19 +2329,19 @@ function aatrsz2() {
 
     var atrsz6 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190530/fd3e1629-c0a2-4231-9832-330a229bc3a8.jpg",
+            img: "./img/135.jpg",
             p1: "神性与妖邪并存",
             p2: "作者：EcsRin",
             p3: "273"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190528/661bbe1b-c293-41e5-a0ce-b3986340e164.jpg",
+            img: "./img/136.jpg",
             p1: "化鲸",
             p2: "作者：haruko",
             p3: "254"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190529/6ea5227b-69c3-4509-86a5-a0990eaf1715.jpg",
+            img: "./img/137.jpg",
             p1: "不服就来战",
             p2: "作者：墨纸ink",
             p3: "258"
@@ -2467,69 +2467,69 @@ function aatrdc() {
 
     var atrdc1 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190510/6fd81945-6d1e-4054-8421-e6ec5f31f888.jpg",
+            img: "./img/166.jpg",
             div: "清风澈"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190509/f80e5b87-5407-4e88-98ac-b7ba5a0f9de3.jpg",
+            img: "./img/179.jpg",
             div: "雾魔萧曹"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190507/53c2c9a2-b9e4-4f89-aa41-2a10e285f1c1.jpg",
+            img: "./img/168.jpg",
             div: "修老虎"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190507/f31b3a22-bb6a-4c00-8645-a5b6890d992d.jpg",
+            img: "./img/169.jpg",
             div: "Lor筱逆"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190430/81ca87b1-0d3e-46d2-bbaa-4c5ecd873ea3.jpg",
+            img: "./img/170.jpg",
             div: "果子炸"
         }
     ]
 
     var atrdc2 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190429/469cd9df-fce8-48cc-b371-3e5953bb30c4.jpg",
+            img: "./img/171.jpg",
             div: "山桂贰"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190428/b432f26a-f286-4068-8ebd-6e444dc57396.jpg",
+            img: "./img/172.jpg",
             div: "ooh---"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190328/c9c7f771-a2e7-4a99-9f0e-5c4fbe91c7b6.jpg",
+            img: "./img/173.jpg",
             div: "誰哈那"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190328/7c1933a4-a34f-4c86-a701-d88d4e34b64b.jpg",
+            img: "./img/174.jpg",
             div: "莫小沫san"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190428/137561d0-de06-4a71-a990-93318dc9aac6.jpg",
+            img: "./img/175.jpg",
             div: "陌Mo_墨心莲"
         }
     ]
 
     var atrdc3 = [
         {
-            img: "https://nie.res.netease.com/r/pic/20190320/af8d45d1-2c70-4a8c-aa9e-7d57494ba869.jpg",
+            img: "./img/176.jpg",
             div: "酒绛子pick双皮奶"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190312/16826ae7-f97c-4a60-bb08-9c7802d7d6b6.jpg",
+            img: "./img/177.jpg",
             div: "懿肆琬兮"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190305/ae73ece2-67f2-4f89-9fbc-593f88e4ebbe.jpg",
+            img: "./img/178.jpg",
             div: "Shimmer白蝶"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190304/d9c86b6b-c681-4d25-ba0e-ba4c012ca1ac.jpg",
+            img: "./img/179.jpg",
             div: "淘鲸海岸"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190304/bbb0ce66-65b9-4eb6-8a2e-6e0551f11377.jpg",
+            img: "./img/167.jpg",
             div: "-贫穷的暖老板Nuan16-"
         }
     ]
@@ -2563,19 +2563,19 @@ function aastsy() {
     var st = document.getElementById("ytss")
     var astsy = [
         {
-            img: "https://nie.res.netease.com/r/pic/20181114/04c74daf-531a-40c0-8f29-212a5370171a.gif",
+            img: "./img/122.gif",
             div: "阴阳交错的命运开启"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190117/cd157d16-c630-4942-946a-1ea62ac3fb68.png",
+            img: "./img/123.png",
             div: "驭霆之风：苍风一目连"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190426/dc60be6b-250b-4ac1-995e-7f6f3dd5be39.gif",
+            img: "./img/124.gif",
             div: "不知谁歌，星火起舞"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190117/6f619e4f-b356-446e-b61a-5cacc7fd889e.png",
+            img: "./img/125.png",
             div: "稻荷神临：稻荷神御馔津"
         },
     ]
@@ -2599,22 +2599,22 @@ var sixright = document.getElementById("sixright")
 function aafyl() {
     var afyl = [
         {
-            img: "https://nie.res.netease.com/r/pic/20180913/e8985f58-81c3-4366-8fef-791423c01b3e.gif"
+            img: "./img/49.gif"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20181112/b94fe4de-0b77-446c-a898-5095bcf3a458.png"
+            img: "./img/50.png"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20190314/47205c2d-dde2-478d-b09f-7cad2f7c5ea3.png"
+            img: "./img/51.png"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20181008/43eb59ae-19e6-4508-9c6e-fe4afe9b3355.png"
+            img: "./img/52.png"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180918/f3f34f59-9ed1-464f-84c1-c0d49f8f5f8e.png"
+            img: "./img/53.png"
         },
         {
-            img: "https://nie.res.netease.com/r/pic/20180913/a1d6f536-8af7-4970-b863-05114528bce0.png"
+            img: "./img/54.1.png"
         }
     ]
 
@@ -2706,106 +2706,106 @@ function axim() {
     var aximg = [
         {
             p: "阴阳师御馔津公仔两件套",
-            img: "http://prqnryn2v.bkt.clouddn.com/55.jpg"
+            img: "./img/55.jpg"
         },
         {
             p: "阴阳师恋爱御守",
-            img: "http://prqnryn2v.bkt.clouddn.com/56.jpg"
+            img: "./img/56.jpg"
         },
 
         {
             p: "阴阳师黑茨球公仔（大）",
-            img: "http://prqnryn2v.bkt.clouddn.com/57.jpg"
+            img: "./img/57.jpg"
         },
 
         {
             p: "阴阳师石距公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/58.jpg"
+            img: "./img/58.jpg"
         },
         {
             p: "阴阳师达摩印章",
-            img: "http://prqnryn2v.bkt.clouddn.com/59.jpg"
+            img: "./img/59.jpg"
         },
         {
             p: "阴阳师神乐粘土手办",
-            img: "http://prqnryn2v.bkt.clouddn.com/60.jpg"
+            img: "./img/60.jpg"
         },
         {
             p: "阴阳师荒骷髅公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/61.jpg"
+            img: "./img/61.jpg"
         },
         {
             p: "阴阳师御馔津公仔两件套",
-            img: "http://prqnryn2v.bkt.clouddn.com/62.jpg"
+            img: "./img/62.jpg"
         },
         {
             p: "阴阳师恋爱御守",
-            img: "http://prqnryn2v.bkt.clouddn.com/56.jpg"
+            img: "./img/56.jpg"
         },
 
         {
             p: "阴阳师黑茨球公仔（大）",
-            img: "http://prqnryn2v.bkt.clouddn.com/57.jpg"
+            img: "./img/57.jpg"
         },
 
         {
             p: "阴阳师石距公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/58.jpg"
+            img: "./img/58.jpg"
         },
         {
             p: "阴阳师达摩印章",
-            img: "http://prqnryn2v.bkt.clouddn.com/59.jpg"
+            img: "./img/59.jpg"
         },
         {
             p: "阴阳师神乐粘土手办",
-            img: "http://prqnryn2v.bkt.clouddn.com/60.jpg"
+            img: "./img/60.jpg"
         },
         {
             p: "阴阳师荒骷髅公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/61.jpg"
+            img: "./img/61.jpg"
         },
         {
             p: "阴阳师御馔津公仔两件套",
-            img: "http://prqnryn2v.bkt.clouddn.com/55.jpg"
+            img: "./img/55.jpg"
         },
         {
             p: "阴阳师恋爱御守",
-            img: "http://prqnryn2v.bkt.clouddn.com/56.jpg"
+            img: "./img/56.jpg"
         },
 
         {
             p: "阴阳师黑茨球公仔（大）",
-            img: "http://prqnryn2v.bkt.clouddn.com/57.jpg"
+            img: "./img/57.jpg"
         },
 
         {
             p: "阴阳师石距公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/58.jpg"
+            img: "./img/58.jpg"
         },
         {
             p: "阴阳师达摩印章",
-            img: "http://prqnryn2v.bkt.clouddn.com/59.jpg"
+            img: "./img/59.jpg"
         },
         {
             p: "阴阳师神乐粘土手办",
-            img: "http://prqnryn2v.bkt.clouddn.com/60.jpg"
+            img: "./img/60.jpg"
         },
         {
             p: "阴阳师荒骷髅公仔",
-            img: "http://prqnryn2v.bkt.clouddn.com/61.jpg"
+            img: "./img/61.jpg"
         },
         {
             p: "阴阳师御馔津公仔两件套",
-            img: "http://prqnryn2v.bkt.clouddn.com/62.jpg"
+            img: "./img/62.jpg"
         },
         {
             p: "阴阳师恋爱御守",
-            img: "http://prqnryn2v.bkt.clouddn.com/56.jpg"
+            img: "./img/56.jpg"
         },
 
         {
             p: "阴阳师黑茨球公仔（大）",
-            img: "http://prqnryn2v.bkt.clouddn.com/57.jpg"
+            img: "./img/57.jpg"
         },
 
 

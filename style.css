@@ -38,7 +38,7 @@ a{
     display: inline-block;
     width:25px;
     height:11px;
-    background: url(https://nie.res.netease.com/comm/nie.topBar/images/sprite-w_dd519f4.png) -90px -306px no-repeat
+    background: url(./img/98.png) -90px -306px no-repeat
 }
 
 .top-ain-er{
@@ -105,15 +105,15 @@ a{
   }
 
   .top-ain-er .center .inner li .a1{
-     background: url(http://prqnryn2v.bkt.clouddn.com/73.png) no-repeat right;
+     background: url(./img/73.png) no-repeat right;
   }
 
   .top-ain-er .center .inner li .a{
-    background: url(http://prqnryn2v.bkt.clouddn.com/72.png) no-repeat right;
+    background: url(./img/72.png) no-repeat right;
   }
 
   .top-ain-er .center .inner li .b{
-    background: url(http://prqnryn2v.bkt.clouddn.com/71.png) no-repeat right;
+    background: url(./img/71.png) no-repeat right;
   }
 
 
@@ -147,7 +147,7 @@ a{
 }
 
 .top-ain-er .center .inner .li3 a{
-    background: url(http://prqnryn2v.bkt.clouddn.com/72.png) no-repeat right;
+    background: url(./img/72.png) no-repeat right;
     padding-right:10px;
     
 }
@@ -179,14 +179,14 @@ a{
 }
 
 .top-ain-er .center .li4 div .one a{
-   background: url(http://prqnryn2v.bkt.clouddn.com/71.png) no-repeat right;
+   background: url(./img/71.png) no-repeat right;
    padding-right: 10px;
 }
   
 .top-ain-er .center .li4 div  .two a:nth-child(1),
 .top-ain-er .center .li4 div  .two a:nth-child(2),
 .top-ain-er .center .li4 div  .two a:nth-child(3){
-    background: url(http://prqnryn2v.bkt.clouddn.com/71.png) no-repeat right;
+    background: url(./img/71.png) no-repeat right;
     padding-right: 10px;
 }
 
@@ -200,7 +200,7 @@ a{
    display: inline-block;
    height:25px;
    color:#cf1132;
-   background: url(http://prqnryn2v.bkt.clouddn.com/74.png) no-repeat left;
+   background: url(./img/74.png) no-repeat left;
 }
 
 .top-ain-er .center .inner .li2 .net1{
@@ -259,7 +259,7 @@ a{
   display: block;
   width:420px;
   height:55px;
-  background:url(http://prqnryn2v.bkt.clouddn.com/1.jpg);
+  background:url(./img/1.jpg);
  
 }
 
@@ -358,19 +358,22 @@ a{
  }
  
 .side1{
-    background-image:url("http://prqnryn2v.bkt.clouddn.com/4.png");
+    background-image:url("./img/4.png");
     background-size:100% 100%;
 }
 
 .side2{
-	background-image:url("http://prqnryn2v.bkt.clouddn.com/5.png");
+    background-image:url("./img/5.png");
+    background-size:100% 100%;
 }
 
 .side3{
-	background-image:url("http://prqnryn2v.bkt.clouddn.com/6.png");
+    background-image:url("./img/6.png");
+    background-size:100% 100%;
 }
 .side4{
-	background-image:url("http://prqnryn2v.bkt.clouddn.com/7.png");
+    background-image:url("./img/7.png");
+    background-size:100% 100%;
 }
 
 .mian-top{
@@ -384,7 +387,7 @@ a{
 .mian-top-iner{
     width:100%;
     height:140px;
-    background:url(http://prqnryn2v.bkt.clouddn.com/70.jpg);
+    background:url(./img/70.jpg);
     position: absolute;
     top:60px;
     left:0;
@@ -423,7 +426,7 @@ a{
     width:145.2px;
     height:88px;
     border:2px solid #000;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/loading_057a59b.gif) center center no-repeat #000;
+    background: url(./img/101.gif) center center no-repeat #000;
 }
 
 .mian-top-iner .e1 a .i{
@@ -566,7 +569,7 @@ a{
     width: 100%;
     height: 100%;
     overflow: hidden;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/nav_tr_bg_73143fd.png) no-repeat;
+    background: url(./img/100.png) no-repeat;
 }
 
 .mian-top-iner .e4 a .s2{
@@ -586,7 +589,7 @@ a{
 .mian-top-iner .e4 .ht .ht-img{
     width:88px;
     height:19px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/spriter/index_z_7b228ae.png);
+    background: url(./img/97.png);
     background-position: -1085px -452px;
 }
 
@@ -643,7 +646,7 @@ a{
 .mian-top-iner .e4 .bq-img{
     width:88px;
     height:19px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/spriter/index_z_7b228ae.png);
+    background: url(./img/97.png);
     background-position: -567px -657px;
 }
 
@@ -808,12 +811,12 @@ a{
     right:0;
     width:100%;
     height:60px;
-    background:url("http://prqnryn2v.bkt.clouddn.com/8.jpg")
+    background:url("./img/8.jpg")
 }
 
 .active{
     color:#000;
-    background: url("http://prqnryn2v.bkt.clouddn.com/10.jpg");
+    background: url("./img/10.jpg");
 }
 
 .topin-naw{
@@ -825,7 +828,7 @@ a{
 
 .topin-naw a:hover{
     color:#000;
-    background: url("http://prqnryn2v.bkt.clouddn.com/10.jpg");
+    background: url("./img/10.jpg");
 }
 
 .topin-naw a{
@@ -871,7 +874,7 @@ a{
    
     width:18px;
     height:19px;
-    background: url("http://prqnryn2v.bkt.clouddn.com/9.png")
+    background: url("./img/9.png")
 }
 
 .topsearch-img:hover{
@@ -913,7 +916,7 @@ a{
     position: absolute;
     top:0;
     left:110px;
-    background:url("http://prqnryn2v.bkt.clouddn.com/12.webp")center bottom repeat-x;
+    background:url("./img/12.webp")center bottom repeat-x;
 }
 
 .topdown-sub{
@@ -936,9 +939,9 @@ a{
     width:100%;
     height:287px;
     position: absolute;
-    bottom: 0;
+    bottom: -60px;
     left:0;
-    background: url("http://prqnryn2v.bkt.clouddn.com/13.png") center bottom repeat-x;
+    background: url("./img/13.png") center bottom repeat-x;
     
 }
 
@@ -951,7 +954,7 @@ a{
 .newsin-down{
    width:145px;
    height:287px;
-   background: url("http://prqnryn2v.bkt.clouddn.com/14.png")no-repeat center bottom;
+   background: url("./img/14.png")no-repeat center bottom;
    padding-top:1px; 
    position: relative;
 }
@@ -980,7 +983,7 @@ a{
     width:107px;
     height:107px;
     margin: 10px auto;
-    background: url("http://prqnryn2v.bkt.clouddn.com/16.jpg")
+    background: url("./img/16.jpg")
 }
 
 
@@ -1020,7 +1023,7 @@ a{
     background: rgba(0,0,0,.8);
 }
 .head-news-con-top ul .li2{
-    background-image: url("http://prqnryn2v.bkt.clouddn.com/17.png");
+    background-image: url("./img/17.png");
     color:rgba(0,0,0,.8);
 }
 .head-news-con-top ul li span{
@@ -1028,7 +1031,7 @@ a{
     width:83px;
     height: 4px;
     margin: 0 auto;
-    background-image: url("https://yys.res.netease.com/pc/gw/20180913151832/img/spriter/index_z_7b228ae.png");
+    background-image: url("./img/97.png");
     background-position: -806px -492px;
 }
 
@@ -1188,7 +1191,7 @@ margin:5px 0 10px 180px;
 
 .section-one{
     width:1180px;
-  
+    margin-top:100px;
     position: relative;
 }
 
@@ -1258,7 +1261,7 @@ margin:5px 0 10px 180px;
     right:0;
     width:18px;
     height:19px;
-    background: url("http://prqnryn2v.bkt.clouddn.com/9.png")
+    background: url("./img/9.png")
 }
 
 .inner .search  a:hover{
@@ -1342,7 +1345,7 @@ margin:5px 0 10px 180px;
     margin:10px 20px ;
     width:47px;
     height:9px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow1_53d9b6f.png)
+    background: url(./img/102.png)
 }
 
 .sslb .inner .aniu .xia:hover,
@@ -1351,12 +1354,12 @@ margin:5px 0 10px 180px;
 }
 
 .sslb .inner .aniu .sang:hover i{
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow5_fb43a6e.png);
+    background: url(./img/103.png);
  
 }
 
 .sslb .inner .aniu .xia:hover i{
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow6_3157168.png) ;
+    background: url(./img/104.png) ;
 }
 
 
@@ -1365,7 +1368,7 @@ margin:5px 0 10px 180px;
     margin:10px 20px ;
     width:47px;
     height:9px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow4_bdb96a0.png)
+    background: url(./img/105.png)
 }
 
 
@@ -1451,7 +1454,7 @@ margin:5px 0 10px 180px;
    position: absolute;
    top:-10px;
    right:-7px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/new_icon_253bf40.png)
+    background: url(./img/106.png)
 }
 
 .section-one .sslb .inner ul{
@@ -1483,7 +1486,7 @@ margin:5px 0 10px 180px;
     height:100px;
     position: absolute;
     top:0;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/mask_5c0385b.png)
+    background: url(./img/107.png)
 }
 
 .section-one .sslb .inner ul li p{
@@ -1509,7 +1512,7 @@ margin:5px 0 10px 180px;
     width:1060px;
     height:429px;
     padding-left:47px; 
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/shengyou_bg_61fd224.png)no-repeat;
+    background: url(./img/108.png)no-repeat;
 }
 
 
@@ -1586,7 +1589,7 @@ margin:5px 0 10px 180px;
     width:1180px;
     height:320px;
     z-index: 0;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_bg_000bc91.jpg)no-repeat center bottom;
+    background: url(./img/26.jpg)no-repeat center bottom;
 }
 
 .section-one .yys .yysin .tp .left{
@@ -1598,7 +1601,7 @@ margin:5px 0 10px 180px;
     width:78px;
     height:318px;
     border:1px solid #c2a060;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_btn_bg_405a749.png) center bottom no-repeat
+    background:url(./img/27.png) center bottom no-repeat
 }
 
 .section-one .yys .yysin .tp .right:hover,
@@ -1648,7 +1651,7 @@ margin:5px 0 10px 180px;
     left:18%;
     width:37px;
     height:9px;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow7_81e9fff.png) no-repeat
+    background:url(./img/109.png) no-repeat
 }
 
 
@@ -1662,7 +1665,7 @@ margin:5px 0 10px 180px;
     height:318px;
     z-index: 9;
     border:1px solid #c2a060;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_btn_bg_405a749.png) center bottom no-repeat
+    background:url(./img/27.png) center bottom no-repeat
 }
 
 .yys .yysin .tp .right .ix{
@@ -1682,7 +1685,7 @@ margin:5px 0 10px 180px;
     right:18%;
     width:37px;
     height:9px;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow8_395366a.png) no-repeat
+    background:url(./img/109.pn) no-repeat
 }
 
 .yysin .tp .big-img{
@@ -1762,7 +1765,7 @@ margin:5px 0 10px 180px;
     width:8px ;
     height:13px;
     margin-right: 20px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/back_a41fdf7.png) no-repeat
+    background: url(./img/25.png) no-repeat
 }
 
 .shis .links:hover a i{
@@ -1777,7 +1780,7 @@ margin:5px 0 10px 180px;
     width:1180px;
     height:320px;
 
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_bg_000bc91.jpg) center 0 no-repeat;
+    background: url(./img/26.jpg) center 0 no-repeat;
 }
 
 .section-one .sis .qt .last{
@@ -1789,7 +1792,7 @@ margin:5px 0 10px 180px;
     width:78px;
     height:318px;
     border:1px solid #c2a060;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_btn_bg_405a749.png) center bottom no-repeat
+    background:url(./img/27.png) center bottom no-repeat
 }
 
 .section-one .sis .qt .next:hover,
@@ -1838,7 +1841,7 @@ margin:5px 0 10px 180px;
     left:18%;
     width:37px;
     height:9px;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow7_81e9fff.png) no-repeat
+    background:url(./img/110.png) no-repeat
 }
 
 
@@ -1852,7 +1855,7 @@ margin:5px 0 10px 180px;
     height:318px;
     z-index: 9;
     border:1px solid #c2a060;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/shishen_btn_bg_405a749.png) center bottom no-repeat
+    background:url(./img/27.png) center bottom no-repeat
 }
 
 .section-one .sis .qt .next .ix{
@@ -1872,7 +1875,7 @@ margin:5px 0 10px 180px;
     right:18%;
     width:37px;
     height:9px;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow8_395366a.png) no-repeat
+    background:url(./img/111.png) no-repeat
 }
 
 .sis .qt  .bimg{
@@ -1926,7 +1929,7 @@ margin:5px 0 10px 180px;
 .game-strategy{
     height:510px;
     margin-top:533px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/stategy_bg_4def7a7.jpg)no-repeat;
+    background: url(./img/112.jpg)no-repeat;
     background-position:50% 38%;;
     position: relative;
   
@@ -2028,7 +2031,7 @@ margin:5px 0 10px 180px;
     width:71px ;
     height:4px ;
     display: block;
-    background-image: url(https://yys.res.netease.com/pc/gw/20180913151832/img/spriter/index_z_7b228ae.png);
+    background-image: url(./img/97.png);
     background-position: -725px -492px;
     margin: -4px auto;
 }
@@ -2151,7 +2154,7 @@ margin:5px 0 10px 180px;
 .section-three{
     position: relative;
     height:487px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/tongren_bg_4e00ea2.jpg)no-repeat left bottom;
+    background: url(./img/113.jpg)no-repeat left bottom;
     
 }
 
@@ -2183,7 +2186,7 @@ margin:5px 0 10px 180px;
     width:23px;
     height:32px;
     cursor: pointer;
-    background: url(http://prqnryn2v.bkt.clouddn.com/34.png) ;
+    background: url(./img/34.png) ;
     background-size:cover; 
     margin-top:-7px; 
     
@@ -2194,7 +2197,7 @@ margin:5px 0 10px 180px;
     width:23px;
     height:32px;
     cursor: pointer;
-    background: url(http://prqnryn2v.bkt.clouddn.com/75.png) ;
+    background: url(./img/75.png) ;
     background-size:cover; 
     margin-top:-7px; 
 }
@@ -2316,7 +2319,7 @@ position: absolute;
     margin-left:20px; 
     overflow: hidden;
     color:#999;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/love_be82b43.png) no-repeat;
+    background:url(./img/114.png) no-repeat;
 }
 
 .news-box .next {
@@ -2341,7 +2344,7 @@ transition: 0.3s;
     width:32px ;
     height:32px;
     display: inline-block;
-    background: url(http://prqnryn2v.bkt.clouddn.com/43.png)no-repeat;
+    background: url(./img/43.png)no-repeat;
     background-size: cover;
     vertical-align: middle;
 }
@@ -2351,7 +2354,7 @@ transition: 0.3s;
     width:1180px;
     height:228px;
     margin: 40px 0 70px;
-    background: url(http://prqnryn2v.bkt.clouddn.com/44.jpg) no-repeat center bottom;
+    background: url(./img/44.jpg) no-repeat center bottom;
    
   
 }
@@ -2414,7 +2417,7 @@ transition: 0.3s;
     height:170px;
     float: left;
     margin-right:16px; 
-    background: url(http://prqnryn2v.bkt.clouddn.com/45.jpg) no-repeat;
+    background: url(./img/45.jpg) no-repeat;
    position: relative;
    
 }
@@ -2445,7 +2448,7 @@ transition: 0.3s;
 .section-four .boxs ul li div:nth-child(2){
     width:118px;
     height:110px;
-    background: url(http://prqnryn2v.bkt.clouddn.com/76.png) no-repeat;
+    background: url(./img/76.png) no-repeat;
     position: absolute;
     left:48px;
     top:6px;;
@@ -2477,7 +2480,7 @@ transition: 0.3s;
     width:32px;
     height:32px; 
     vertical-align:middle;
-    background: url(http://prqnryn2v.bkt.clouddn.com/43.png);
+    background: url(./img//43.png);
 }
 
 .next2 span{
@@ -2508,7 +2511,7 @@ transition: 0.3s;
     width:1090px;
     height:215px;
     float:right;
-    background:url(https://yys.res.netease.com/pc/gw/20180913151832/img/shiting_bg_735f29c.jpg) left 70px no-repeat
+    background:url(./img/115.jpg) left 70px no-repeat
 }
 .section-five .box2-inner ul{
 position: absolute;
@@ -2546,7 +2549,7 @@ padding-left:30px;
     width:16px;
     height:12px;
     margin-right: 5px;
-    background-image:url(https://yys.res.netease.com/pc/gw/20180913151832/img/au_35379f6.png) 
+    background-image:url(./img/116.png) 
 }
 
 .section-five .box2-inner .netx3{
@@ -2571,7 +2574,7 @@ padding-left:30px;
     width:41px ;
     height:5px;
     margin-left:20px;
-    background-image: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow_245be57.png);
+    background-image: url(./img/117.png);
 }
 
 .section-five .box2-inner .netx3::before{
@@ -2609,7 +2612,7 @@ padding-left:30px;
 .section-six{
    
     margin-top:100px;
-    background: url(http://prqnryn2v.bkt.clouddn.com/48.jpg)no-repeat left center ;
+    background: url(./img/48.jpg)no-repeat left center ;
 }
 
 .section-six .boxs{
@@ -2661,7 +2664,7 @@ padding-left:30px;
     display: block;
     width:47px;
     height:9px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow1_53d9b6f.png);
+    background: url(./img/118.png);
     margin: 45% 20%;
 }
 
@@ -2680,7 +2683,7 @@ padding-left:30px;
     display: block;
     width:47px;
     height:9px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/arrow4_bdb96a0.png);
+    background: url(./img/119.png);
     margin: 45% 20%;
 }
 
@@ -2772,7 +2775,7 @@ padding-left:30px;
 }
 
 .section-seven .boxs .bar i{
-    background-image: url(http://prqnryn2v.bkt.clouddn.com/63.png);
+    background-image: url(./img/63.png);
   
     display: inline-block;
     width:7px;
@@ -2832,7 +2835,7 @@ padding-left:30px;
 
 .inner .wx div span{
     display: inline-block;
-    background:url(http://prqnryn2v.bkt.clouddn.com/65.png);
+    background:url(./img/65.png);
     background-size:cover; 
     width:28px;
     height:98px;
@@ -2842,7 +2845,7 @@ padding-left:30px;
 }
 .inner .gf div span{
     display: inline-block;
-    background:url(http://prqnryn2v.bkt.clouddn.com/64.png);
+    background:url(./img/64.png);
     background-size:cover; 
     width:28px;
     height:87px;
@@ -2899,7 +2902,7 @@ right:-40px;
     height:270px;
     position: absolute;
     left:525px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/code/code_role_bg_58d7f15.png)no-repeat center top;
+    background: url(./img/120.png)no-repeat center top;
     margin-top:-73px;
 }
 
@@ -2909,7 +2912,7 @@ right:-40px;
     display: block;
     width:203px;
     height:233px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/code/sl_70cf981.png) -406px 0 no-repeat;
+    background: url(./img/96.png) -406px 0 no-repeat;
 }
 
 .section-eight .kf{
@@ -2950,7 +2953,7 @@ right:-40px;
      display: block;
      width:30px;
     height:100px;
-    background: url(http://prqnryn2v.bkt.clouddn.com/66.png) no-repeat;
+    background: url(./img/66.png) no-repeat;
     margin-left: 60px;
     margin-top:20px; 
 }
@@ -2999,7 +3002,7 @@ right:-40px;
     display:inline-block;
     width:30px ;
     height:90px;
-    background: url(http://prqnryn2v.bkt.clouddn.com/68.png) no-repeat;
+    background: url(./img/68.png) no-repeat;
     margin-top:20px; 
 }
 
@@ -3023,7 +3026,7 @@ right:-40px;
     height:927px;
     position: relative;
     margin-top:-115px;
-    background: url(https://yys.res.netease.com/pc/gw/20180913151832/img/bottom_bg_b30cb11.png) center no-repeat;
+    background: url(./img/121.png) center no-repeat;
 }
 
 .section-nine .logo{
@@ -3039,7 +3042,7 @@ right:-40px;
     position: absolute;
     top:346px;
     left:235px; 
-    background: url(http://prqnryn2v.bkt.clouddn.com/69.png)
+    background: url(./img/69.png)
 }
 
 .section-nine .box {
