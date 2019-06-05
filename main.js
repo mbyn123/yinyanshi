@@ -80,11 +80,11 @@ window.onscroll = function () {
     if (topscroll > 60) {
         miannav.style.position = "fixed"
         miannav.style.top = "0"
-        topdown.style.display = "block"
+       
     } else {
         miannav.style.position = "absolute"
         miannav.style.top = "0px"
-        topdown.style.display = "none"
+        
     }
 }
 
